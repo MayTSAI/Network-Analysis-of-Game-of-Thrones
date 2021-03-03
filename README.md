@@ -2,9 +2,10 @@
 
 As an active GOT fan, I was aspired to accomplish the project on DataCamp: Network Analysis of Game of Throne. 
 
+__________________________________________________________________________________________________________________________________________________________
 
 
-The project focuses on:
+## The project focuses on:
 
 1. Create network relationshiop graph between the characters
  
@@ -21,9 +22,10 @@ The project focuses on:
 7. Who is/are the most important character(s) in the fifth book according to pagerank, betweenness centrality, and degree centrality measures?
 
 
+__________________________________________________________________________________________________________________________________________________________
 
 
-Data Frame including:
+## Data Frame 
 
 Source / Target: Two nodes that are linked by an edge 
 
