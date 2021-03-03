@@ -25,10 +25,10 @@ Data Frame including:
 
 Source / Target: two nodes that are linked by an edge 
 
-Type: The weight attribute of every edge tells us the number of interactions that the characters have had over the book
+Type: The network between two characters ( directed or undirected edges )
 
-Weight: The weight attribute 
+Weight: The weight attribute of every edge tells us the number of interactions that the characters have had over the book
 
-Book: The book tells is which season we are on
+Book: The book tells us which season the dataset is included
 
 
