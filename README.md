@@ -2,7 +2,6 @@
 
 As an active GOT fan, I was aspired to accomplish the project on DataCamp: Network Analysis of Game of Throne. 
 
-__________________________________________________________________________________________________________________________________________________________
 
 
 ## The project focuses on:
@@ -21,8 +20,6 @@ ________________________________________________________________________________
 
 7. Who is/are the most important character(s) in the fifth book according to pagerank, betweenness centrality, and degree centrality measures?
 
-
-__________________________________________________________________________________________________________________________________________________________
 
 
 ## Data Frame 
