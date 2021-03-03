@@ -1,9 +1,10 @@
 # Network-Analysis-of-Game-of-Thrones
 
-Motivation
 As an active GOT fan, I was aspired to accomplish the project on DataCamp: Network Analysis of Game of Throne. 
 
+
 The project focuses on
+
 1. Create network relationshiop graph between the characters
 2. Finding the most important character in book 1 and book 5 by using degree centrality method 
 3. The evolution of most imporatnat character changes in book 1
@@ -14,7 +15,7 @@ The project focuses on
 
 
 
-Data Frame
+Data Frame including
 
 Source / Target: two nodes that are linked by an edge 
 
