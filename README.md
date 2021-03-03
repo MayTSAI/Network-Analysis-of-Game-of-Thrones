@@ -23,7 +23,7 @@ The project focuses on:
 
 Data Frame including:
 
-Source / Target: two nodes that are linked by an edge 
+Source / Target: Two nodes that are linked by an edge 
 
 Type: The network between two characters ( directed or undirected edges )
 
